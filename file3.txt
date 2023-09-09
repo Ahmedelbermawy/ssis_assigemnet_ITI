@@ -1,0 +1,4 @@
+Crs_Id,Crs_Name,Crs_Duration,lower case of Crs_Name,Top_Id,Top_Name
+800,Java,60,java,1,Programming
+900,Oracle,50,oracle,2,DB
+400,Unix,50,unix,4,Operating System

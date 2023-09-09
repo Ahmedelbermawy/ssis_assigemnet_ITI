@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="__SQL2022.ITI"
+  DTS:DTSID="{90E604CE-A396-433C-ACF7-D3E63CAA5361}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.\SQL2022;Initial Catalog=ITI;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-projects_rami-{90E604CE-A396-433C-ACF7-D3E63CAA5361}.\SQL2022.ITI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="El-Bermawy_SQL2022.Company_SD"
+  DTS:DTSID="{F276368F-74D4-4016-ADD8-C1120A65D4AE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=El-Bermawy\SQL2022;Initial Catalog=Company_SD;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Lab_01_ssis-{F276368F-74D4-4016-ADD8-C1120A65D4AE}El-Bermawy\SQL2022.Company_SD;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
